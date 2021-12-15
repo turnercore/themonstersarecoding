@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, ukulele, kimchi grilled cheese
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... an interesting project!
-- 📫 How to reach me ... themonstersarecoming@gmail.com
+- 📫 How to reach me ... oblique_fifty.0f@icloud.com
 
 <!---
 themonstersarecoding/themonstersarecoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
