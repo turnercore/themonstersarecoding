@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @themonstersarecoding
+- 👋 Hi, I’m @turnercore
 - 👀 I’m interested in ... coding, ukulele, kimchi grilled cheese
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... an interesting project!
